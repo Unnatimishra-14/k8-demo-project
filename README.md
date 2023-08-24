@@ -36,7 +36,7 @@ Before you begin, ensure you have the following prerequisites:
 
    ```
    git clone https://github.com/Unnatimishra-14/k8-demo-project.git
-   cd k8s-demo-project
+   cd k8-demo-project
    ```
 
 2. Apply the Kubernetes configuration files:
