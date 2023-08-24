@@ -1,10 +1,7 @@
-# k8-demo-project
-This is a kubernetes demo project that I created while learning kubernetes basics with techworld-by-nana on youtube.
-
-
 # Kubernetes Demo Project
 
 Welcome to the Kubernetes Demo Project repository! This repository contains a basic example of a Kubernetes setup using YAML configuration files. The project includes a MongoDB deployment and a web application deployment, demonstrating how different Kubernetes resources can work together.
+This is a kubernetes demo project that I created while learning kubernetes basics with techworld-by-nana on youtube.
 
 ## Table of Contents
 
@@ -38,7 +35,7 @@ Before you begin, ensure you have the following prerequisites:
 1. Clone this repository to your local machine:
 
    ```
-   git clone [repository URL]
+   git clone https://github.com/Unnatimishra-14/k8-demo-project.git
    cd k8s-demo-project
    ```
 
